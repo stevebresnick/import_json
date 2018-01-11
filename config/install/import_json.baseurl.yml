@@ -1,0 +1,2 @@
+import_json:
+  baseurl: "https://s3.amazonaws.com/acquiadraftkings/fantasylabs.json"

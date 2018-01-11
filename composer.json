@@ -1,0 +1,14 @@
+{
+  "name": "drupal/import_json",
+  "type": "drupal-module",
+  "description": "Import JSON",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/import_json",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/import_json",
+    "source": "http://cgit.drupalcode.org/import_json"
+  },
+  "require": { }
+}

@@ -1,0 +1,5 @@
+name: import_json
+type: module
+description: Import JSON
+core: 8.x
+package: Draftkings

@@ -1,0 +1,18 @@
+
+import_json.base_url_form:
+  path: '/admin/config/baseurl'
+  defaults:
+    _form: '\Drupal\import_json\Form\BaseUrlForm'
+    _title: 'BaseUrlForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+
+import_json.default_form:
+  path: '/form/default'
+  defaults:
+    _form: '\Drupal\import_json\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+    _access: 'TRUE'

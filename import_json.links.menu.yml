@@ -1,0 +1,6 @@
+import_json.base_url_form:
+  title: 'BaseUrlForm'
+  route_name: import_json.base_url_form
+  description: 'Import JSON'
+  parent: system.admin_config_system
+  weight: 99
